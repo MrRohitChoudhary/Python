@@ -1,9 +1,9 @@
 import random
 print(random.randrange(0,100))
-a = "Shemdi"
+a = "Jay"
 
 def function():
-    a = "Ramalal"
+    a = "Biru"
     print(a)
    
 funtion()
