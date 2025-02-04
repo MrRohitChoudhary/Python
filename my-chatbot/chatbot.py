@@ -17,4 +17,4 @@ while True:
     if user_input.lower() == 'quit':
         break
     response = chat.send_message(user_input)
-    print("Bot:", response.text)
+    print("Shemdi:", response.text)
